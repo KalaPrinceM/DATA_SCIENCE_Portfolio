@@ -9,3 +9,6 @@ Welcome to my Data Science Portfolio!
 
 # Data Science Projects
 ## Project 1: Eskom Power Station - Electrification by Province
+### Project Overview
+
+
