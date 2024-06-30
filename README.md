@@ -9,6 +9,13 @@ Welcome to my Data Science Portfolio!
 
 # Data Science Projects
 ## Project 1: Eskom Power Station - Electrification by Province
-### Project Overview
+### Project Objectives
 
+Data Analysis: Perform exploratory data analysis (EDA) to understand the characteristics of the data, identify trends, and detect patterns.
+
+Statistical Summary: Compute and visualize key statistical metrics to summarize the data.
+
+Predictive Modeling: Develop and evaluate machine learning models to predict power outages based on historical data and relevant features.
+
+Visualization: Create informative visualizations to communicate findings and model performance.
 
