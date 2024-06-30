@@ -1,5 +1,5 @@
 # DATA_SCIENCE_Portfolio
-Data Science Projects
+
 
 Welcome to my Data Science Portfolio! 
 
@@ -7,5 +7,5 @@ This repository showcases a collection of my projects, where I apply various dat
 
 Each project demonstrates my expertise in data analysis, machine learning, data visualization, and more. Below you will find a brief overview of each project, along with links and detailed descriptions.
 
-# Projects
-## Project 1: Eskom Power Station
+# Data Science Projects
+## Project 1: Eskom Power Station Electrification by Province
